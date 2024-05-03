@@ -1,0 +1,8 @@
+C:\PABD\CuciMobil\CuciMobil\bin\Debug\CuciMobil.exe.config
+C:\PABD\CuciMobil\CuciMobil\bin\Debug\CuciMobil.exe
+C:\PABD\CuciMobil\CuciMobil\bin\Debug\CuciMobil.pdb
+C:\PABD\CuciMobil\CuciMobil\obj\Debug\CuciMobil.csproj.AssemblyReference.cache
+C:\PABD\CuciMobil\CuciMobil\obj\Debug\CuciMobil.csproj.SuggestedBindingRedirects.cache
+C:\PABD\CuciMobil\CuciMobil\obj\Debug\CuciMobil.csproj.CoreCompileInputs.cache
+C:\PABD\CuciMobil\CuciMobil\obj\Debug\CuciMobil.exe
+C:\PABD\CuciMobil\CuciMobil\obj\Debug\CuciMobil.pdb
